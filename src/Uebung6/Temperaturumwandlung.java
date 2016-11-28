@@ -4,9 +4,6 @@ import java.math.RoundingMode;
 import java.text.DecimalFormat;
 import java.text.NumberFormat;
 
-/**
- * Created by christian on 21.11.16.
- */
 public class Temperaturumwandlung {
     public static void main (String[] Args) {
         System.out.println("Fahrenheit " + "\t" + "Celsius");
