@@ -34,4 +34,5 @@ public class Speisekarte {
     public void setPreis(int preis) {
         this.preis = preis;
     }
+    
 }
