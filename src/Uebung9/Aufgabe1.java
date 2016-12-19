@@ -3,9 +3,6 @@ package Uebung9;
 import java.util.ArrayList;
 import java.util.Random;
 
-/**
- * Created by Auron on 12.12.2016.
- */
 public class Aufgabe1 {
     public static void main(String[] args) {
         Random r = new Random();
